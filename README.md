@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kajal Gupta</h1>
    
-  <h3 align="center" style="color:black;">
-   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Aspiring+Frontend+%26+Python+Developer;Creating+Responsive+Websites;Learning+Modern+Frontend+Frameworks" alt="Typing Animation" />
+  
+<h3 align="center" style="color:#FFB6C1;">
+    
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Aspiring+Frontend+%26+Python+Developer;Creating+Responsive+Websites;Learning+Modern+Frontend+Frameworks" alt="Typing Animation" />
 </h3>
 
   
