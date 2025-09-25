@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kajal Gupta</h1>
+<h3 align="center">"Aspiring Frontend Developer | Turning Ideas into Interfaces"</h3>
 
-<!--
-**kajal-gupta12/kajal-gupta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal-gupta12&label=Profile%20views&color=0e75b6&style=flat" alt="kajal-gupta12" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kajal-gupta12" alt="kajal-gupta12" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 About Me . **I’m a final year BCA student and an aspiring Frontend & Python Developer. Passionate about building responsive and user-friendly web applications while continuously improving my skills in modern web technologies.**
+
+- 🌱 I’m currently learning **Frontend Development and Python. 📚 Improving skills in HTML, CSS, JavaScript & Python.**
+
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ kajal-gupta-57968925a](www.linkedin.com/in/ kajal-gupta-57968925a)
+
+- 💼 What I Do **🛠️ Developing interactive web applications while improving my skills in frontend and Python development.**
+
+- 📫 How to reach me **kajalgupta12340@gmail.com**
+
+- 🎯 My Goals : **Master HTML, CSS, and JavaScript to build responsive websites. Learn modern frontend frameworks like React or Vue.js. Create visually appealing and user-friendly web applications.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kajal-gupta-57968925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajal-gupta-57968925a" height="30" width="40" /></a>
+<a href="https://instagram.com/kajalgupta._12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajalgupta._12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kajalgpta122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kajalgpta122" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajal-gupta12&show_icons=true&locale=en&layout=compact" alt="kajal-gupta12" /></p>
