@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kajal-gupta12" alt="kajal-gupta12" /></a> </p>
 
-- 👋 **About Me:** I’m a final year BCA student and an aspiring Frontend & Python Developer. Passionate about building responsive and user-friendly web applications while continuously improving my skills in modern web technologies.
+- 👋 **About Me:** I’m a final year BCA student. Passionate about building responsive and user-friendly web applications while continuously improving my skills in modern web technologies.
 
 - 🌱 **I’m currently learning:** Frontend Development and Python. 📚 Improving skills in HTML, CSS, JavaScript & Python.
 
