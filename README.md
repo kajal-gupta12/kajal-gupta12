@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kajal Gupta</h1>
    
   
-<h3 align="center" style="color:#FFB6C1;">
+<h3 align="center" style="color:#FFFFFF;">
     
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Aspiring+Frontend+%26+Python+Developer;Creating+Responsive+Websites;Learning+Modern+Frontend+Frameworks" alt="Typing Animation" />
 </h3>
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me: **kajalgupta12340@gmail.com**
 
-- 🎯 My Goals: **Master HTML, CSS, and JavaScript to build responsive websites. Learn modern frontend frameworks like React or Vue.js. Create visually appealing and user-friendly web applications.**
+- 🎯 My Goals: **Master HTML, CSS, and JavaScript to build responsive websites. Learn modern frontend frameworks, Create visually appealing and user-friendly web applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
